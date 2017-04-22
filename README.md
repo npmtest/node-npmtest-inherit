@@ -1,4 +1,7 @@
-# test coverage for  [inherit (v2.2.6)](https://github.com/dfilatov/node-inherit)  [![npm package](https://img.shields.io/npm/v/npmtest-inherit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-inherit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-inherit.svg)](https://travis-ci.org/npmtest/node-npmtest-inherit)
+# npmtest-inherit
+
+#### basic test coverage for  [inherit (v2.2.6)](https://github.com/dfilatov/node-inherit)  [![npm package](https://img.shields.io/npm/v/npmtest-inherit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-inherit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-inherit.svg)](https://travis-ci.org/npmtest/node-npmtest-inherit)
+
 #### Inheritance module for Node.js and browsers
 
 [![NPM](https://nodei.co/npm/inherit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/inherit)
@@ -85,7 +88,8 @@
         "url": "git+https://github.com/dfilatov/node-inherit.git"
     },
     "scripts": {},
-    "version": "2.2.6"
+    "version": "2.2.6",
+    "bin": {}
 }
 ```
 
